@@ -12,7 +12,7 @@ namespace testGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Alo
+            //Alo alo 1 2 3
         }
 
         private void Form1_Load_1(object sender, EventArgs e)
